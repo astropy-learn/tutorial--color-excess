@@ -1,1 +1,1 @@
-AUTHOR1 (@GITHUB-USERNAME, ORCID-ID), AUTHOR2 (@GITHUB-USERNAME, ORCID-ID)
+Kristen Larson, Lia Corrales, Stephanie T. Douglas, Kelle Cruz
